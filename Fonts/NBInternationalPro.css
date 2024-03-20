@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "NB International Pro";
+	src: url("/fonts/NB-International-Pro-Light.ttf") format("truetype");
+	font-weight: 300;
+}
+
+
+@font-face {
+	font-family: "NB International Pro";
+	src: url("/fonts/NB-International-Pro-Regular.ttf") format("truetype");
+	font-weight: 400;
+}
+
+
+@font-face {
+	font-family: "NB International Pro";
+	src: url("/fonts/NB-International-Pro-Bold.ttf") format("truetype");
+	font-weight: 700;
+}
